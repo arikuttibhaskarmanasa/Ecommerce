@@ -71,12 +71,10 @@ Backend (optional): JSON Server / Firebase / Node.js
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/flipkart-clone.git
+git clone https://github.com/arikuttibhaskarmanasa/Ecommerce.git
 cd flipkart-clone
 npm install
 npm start
-🌐 Live Demo
-https://bucolic-florentine-7b5359.netlify.app/products 
 
 📝 Future Enhancements
 🛒 Wishlist feature
